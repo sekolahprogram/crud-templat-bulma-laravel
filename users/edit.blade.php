@@ -24,6 +24,7 @@
 
 <form action="#" method="post">
     @csrf
+    @method('PUT')
     
     <div class="field">
         <label for="name" class="label">Nama Lengkap</label>
