@@ -43,9 +43,9 @@
     </div>
 
     <div class="field">
-        <label for="password_confirm" class="label">Konfirgurasi Kata Sandi</label>
+        <label for="password_confirmation" class="label">Konfirgurasi Kata Sandi</label>
         <div class="control">
-            <input type="password" name="password_confirm" id="password_confirm" class="input">
+            <input type="password" name="password_confirmation" id="password_confirmation" class="input">
         </div>
     </div>
 
